@@ -1,6 +1,6 @@
 {
   "name": "fetchout",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "fetch with a timeout",
   "main": "index.js",
   "scripts": {
@@ -19,9 +19,5 @@
   "bugs": {
     "url": "https://github.com/bitquant/fetchout/issues"
   },
-  "homepage": "https://github.com/bitquant/fetchout#readme",
-  "dependencies": {
-    "abort-controller": "3.0.0",
-    "node-fetch": "2.6.7"
-  }
+  "homepage": "https://github.com/bitquant/fetchout#readme"
 }

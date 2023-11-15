@@ -1,5 +1,5 @@
 # fetchout - fetch with a timeout
-Add request timeouts to fetch() calls.  Depends on [`node-fetch`](https://www.npmjs.com/package/node-fetch) to make requests and [`abort-controller`](https://www.npmjs.com/package/abort-controller) to cancel requests after a timeout.
+Add request timeouts to `fetch()` calls.
 
 ## Install
 ```

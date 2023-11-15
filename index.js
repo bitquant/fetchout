@@ -1,8 +1,5 @@
 'use strict';
 
-var fetch = require('node-fetch');
-var AbortController = require('abort-controller');
-
 // Based on info from these sources
 // https://stackoverflow.com/questions/46946380/fetch-api-request-timeout
 // https://www.npmjs.com/package/node-fetch#request-cancellation-with-abortsignal
